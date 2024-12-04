@@ -1,0 +1,50 @@
+
+
+.title-about {
+    text-align: center;
+    color: black; 
+    font-size: 2rem; 
+    margin-top: 20px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    padding-top: 50px;
+  }
+  
+  .desc-about {
+    text-align: center;
+    color: black; 
+    font-size: 1.2rem; 
+    margin: 10px auto; 
+    max-width: 600px; 
+    line-height: 1.5; 
+    font-family: Arial, sans-serif;
+  }
+
+  .link-about {
+    display: block; 
+    text-align: center;
+    margin: 20px auto;
+    color: #00BFFF; 
+    font-size: 1.1rem; 
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    padding-top: 50px;
+  }
+  
+  .link-about {
+    display: block; 
+    text-align: center;
+    margin: 20px auto;
+    color: #00BFFF; 
+    font-size: 1.1rem; 
+    font-weight: bold;
+    text-decoration: none; 
+    transition: color 0.3s ease; 
+    padding-bottom: 100px;
+  }
+  
+  .link-about:hover {
+    color:  #00BFFF; 
+    text-decoration: underline; 
+  }
